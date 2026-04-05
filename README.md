@@ -183,13 +183,4 @@ curl http://127.0.0.1:8000/api/v1/dashboard/summary \
 - Admins are the only role allowed to manage users and write records.
 - User deletion is implemented as a soft delete plus token revocation.
 
-## Submission Checklist
-
-Use [docs/SUBMISSION_TEMPLATE.md](docs/SUBMISSION_TEMPLATE.md) when you are ready to submit. After pushing to GitHub, replace the placeholders with:
-
-- your GitHub repository URL
-- either a deployed docs/demo URL or a GitHub URL that points to `docs/API.md`
-- the framework/library summary
-- implemented features
-- technical decisions and trade-offs
 
