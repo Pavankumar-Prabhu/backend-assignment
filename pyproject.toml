@@ -1,0 +1,7 @@
+[project]
+name = "finance-dashboard-backend"
+version = "0.1.0"
+description = "Finance data processing and access control backend assignment."
+readme = "README.md"
+requires-python = ">=3.12"
+
